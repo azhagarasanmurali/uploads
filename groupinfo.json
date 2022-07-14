@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5f7f3eae732fcc0cad1a3dcc"), 
+    "groupname" : "Default", 
+    "userIds" : [
+
+    ], 
+    "scenarioIds" : [
+
+    ], 
+    "groupdescription" : "Default", 
+    "status" : "Active"
+}
