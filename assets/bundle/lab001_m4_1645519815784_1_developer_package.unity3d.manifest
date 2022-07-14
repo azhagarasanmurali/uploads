@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1587503899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70ab458459921518a8f4de7f540cb1ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6ecfdc98a70bd1eebfaa3c8ea597e63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7443de1c9e4e1e47ab1b8043649545a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a41ffe3be3bac546b8158592a9e82ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d433ec45cd831a46b8353caaa9722a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f96452bd88af773489a55283f48b4b12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_001_FireSafetyMilestone_Dev/Lab001_FireSafety_Milestone_04/M4Prefabs.prefab
+Dependencies: []

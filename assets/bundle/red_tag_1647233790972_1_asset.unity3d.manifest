@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3518537258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08437b93f3a3e6e1125deed135ee3ac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af9a62c9bbf71a8af7ea33ccbfd43ada
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone01/Interactables/Red_Tag_Box/Red_Tag.prefab
+Dependencies: []

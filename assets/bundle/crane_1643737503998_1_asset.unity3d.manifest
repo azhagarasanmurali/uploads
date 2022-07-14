@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3514248881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a46d9c0a8995d20e6909fea22e757e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75455be2f51835ca12b51c86a5c6380f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 673f430d9a20e0e428f87927fd4d8bed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ToolingU/Zone_C_EnvironmentDefaultPrefabs/Crane.prefab
+Dependencies: []

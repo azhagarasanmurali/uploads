@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4058541987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f173bd0007dc072ede62c131bb55478b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab_003_5SAndHandToolIdentification/Audio/CleaningToolSounds/BroomAnimation.wav
+Dependencies: []

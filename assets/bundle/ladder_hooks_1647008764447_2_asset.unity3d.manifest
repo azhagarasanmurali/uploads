@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3104524690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f58863c07752fcd24c9e24d294fd02e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f413c923131929d97e84ee796f4c5d71
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87398b637a3f3354dbbfa63281ab2bc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 133a2554a87018d4e8cd5bd3ea2ff6a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f4bb39946979944808ee08d53588eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Appshell_Prefabs/Ladder_Hooks.prefab
+Dependencies: []

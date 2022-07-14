@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3987706543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1eb76f074fc2aeb970efbc25d55aa4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5690f41a0beef950d2f99c6abd884dac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/SawDust_Parent.prefab
+Dependencies: []

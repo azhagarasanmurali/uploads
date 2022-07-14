@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1953761871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f5bea7ae26bd04ced8435a3e2be6e99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d20bb8c7d215bc4df89a51135e370e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75fac40dde2227b478b9d17155ee6603, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab009_LockoutTagoutProcedures/GroupLockoutClasp.prefab
+Dependencies: []

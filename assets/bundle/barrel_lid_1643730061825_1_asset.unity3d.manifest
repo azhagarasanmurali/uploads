@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1989054471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 922cc2f5dcfb0a63ff95f81c24586b73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/MileStone03/Interactables/Barrel_Lid.prefab
+Dependencies: []

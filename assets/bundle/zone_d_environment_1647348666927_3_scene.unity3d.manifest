@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2242572747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d21c70f23fb61ee461c1a56db9d13b13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54397a9e9baf83199c28b48341537edf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30cdb0955ce07364796ce2346bf62036, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9162026bef48d641a0ed886d31d3524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f4bb39946979944808ee08d53588eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d0ded216d1ca34f92c95f2a45f9203, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Appshell_Prefabs/Zone_D_Environment.prefab
+Dependencies: []

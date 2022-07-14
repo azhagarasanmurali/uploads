@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 296144264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dfdce68ae8508adc203f2ae8d49eda7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c1d94ecf69b32f4bf24f951487e17c2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30cdb0955ce07364796ce2346bf62036, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9162026bef48d641a0ed886d31d3524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f4bb39946979944808ee08d53588eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c143218b9ef771747a6f32f12ff155fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7e6febcca101474e91b8c94c069d1de, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Appshell_Prefabs/Zone_D_Environment.prefab
+Dependencies: []

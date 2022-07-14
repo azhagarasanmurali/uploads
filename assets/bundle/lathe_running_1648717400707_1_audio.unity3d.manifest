@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 756356125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3987787d6697abdc9622284f6f7f37c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Demo/Audio/BgLathe/Lathe_Running.wav
+Dependencies: []

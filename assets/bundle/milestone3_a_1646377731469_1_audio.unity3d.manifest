@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1563551713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9854c23af41450ccf6f83443805582b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab_003_5SAndHandToolIdentification/Audio/Milestone_03/milestone3_a.mp3
+Dependencies: []

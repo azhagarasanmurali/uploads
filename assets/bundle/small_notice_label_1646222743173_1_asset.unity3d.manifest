@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1423761475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96a2d1e4cb5fe394be1c98b06741310a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34751eaece4ba7dee7bb66925c1011a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone04/Label/SmallNoticeLabel1.prefab
+Dependencies: []

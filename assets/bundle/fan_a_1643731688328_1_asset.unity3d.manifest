@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 560076893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91aa5511544367200c5a80e140399bd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9e43731077fe4b5e166700d8b71439f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 763119d577535df43a101ed4cd6a83d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f4bb39946979944808ee08d53588eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/MileStone03/Interactables/fan_A.prefab
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2710737855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 857a8067e6b1d0906d79ef1c328b3827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a36c311edd501e3711af12d596725900
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75fac40dde2227b478b9d17155ee6603, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/LockOutTagOutMilestones/P-2_Tag.prefab
+Dependencies: []

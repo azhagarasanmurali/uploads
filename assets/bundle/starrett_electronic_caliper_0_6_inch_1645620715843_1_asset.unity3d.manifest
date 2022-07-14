@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3184499471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cad5b9ad3c601c7095e26631059b80fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab005_Measuring Outer Diameters/WorkTableSet/17 Starrett
+  Electronic Caliper 0-6 inch/Starrett Electronic Caliper 0-6 inch.prefab
+Dependencies: []

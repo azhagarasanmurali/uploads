@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4140427409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8975a7a5bed5435d8504bfb84b5c8062
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cef6a8303d42de60461da91926f60cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone03/Interactables/CoffeeStainParent.prefab
+Dependencies: []

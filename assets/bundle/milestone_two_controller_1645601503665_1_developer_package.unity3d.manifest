@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1473810958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbe99e7327cb55a05e3e9a59ca26971e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3849f553d95c4c39d49e8ca29e7192b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 643ebb22ab006444e8a87cabd3feae46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d94d773d4cd29c46b416630c3c7b23b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/Milestone02/MilestoneTwoController.prefab
+Dependencies: []

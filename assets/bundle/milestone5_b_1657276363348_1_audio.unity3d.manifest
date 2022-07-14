@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1810461217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a569de366a2e58de10c8fd9d9d1951a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab012_Inspection_Inspecting Inside Diameter/Audio/MilestoneFive/milestone5_b.mp3
+Dependencies: []

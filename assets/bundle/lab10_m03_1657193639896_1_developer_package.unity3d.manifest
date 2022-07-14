@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1193552361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45779a301681afa6cf10fa81347b1232
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b7dcbe0d9aebe83e535d514b26fc8df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1397a9c08aaeeab4c9715637090cae5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e87fb44f67fae44fb96b6fc913e1378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5d0eba734f08c746bff05b87272a588, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50682aba6d64063498cde6c9695b80d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/Milestone03/MilestoneThreeController.prefab
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1510437785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f2bd08b4d0e2ba90c8bdf64fa5deac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab004_Rigging Equipment Safety and Inspection_Design/Audio/Introduction/intro2_c.mp3
+Dependencies: []

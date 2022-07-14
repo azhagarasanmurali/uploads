@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4277104837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8448afb5b89839cf083078ce20dd0f56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d816000f9b1a87d68f192e73676f82cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4d48fe085575f149824730a8476ab93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68ae6fb766bcdf141b296a5f5635669d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee34bd8ea18bd304e98505fa3b3d975f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/MileStone02/MileStone02Controller.prefab
+Dependencies: []

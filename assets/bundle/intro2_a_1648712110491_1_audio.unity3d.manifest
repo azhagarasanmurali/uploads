@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1193574321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a06c67349029267649fc8f34f9bae1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Demo/Audio/Introduction/Intro2_a.mp3
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2138221743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 950d3db11b54f7b9def85c17868dff27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dac01d70765617b52643896101a0a5c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85eb8009ec0529d4fa9f4a00a2e99514, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Appshell_Prefabs/WorkCell_Openable.prefab
+Dependencies: []

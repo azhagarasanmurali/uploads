@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 61200122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a974184ffa9caf26b1e8b0df998259b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Demo/Audio/BgLathe/Lathe_Stop.wav
+Dependencies: []

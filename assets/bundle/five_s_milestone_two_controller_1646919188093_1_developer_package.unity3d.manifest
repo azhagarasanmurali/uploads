@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2750313621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a0ece1a0e3a585c87082241230b2d30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b66c94aba38e6e6aa0148233207b958
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21eb66008f8db6540ac2f4bafd54f9b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86356579e50c5fb4db8187f89bf4a449, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60030a7f328fb8144b7239214efce0fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone02/FiveSMilestoneTwoController.prefab
+Dependencies: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2853736261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 083f566c666c13d1540dca189db9b846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fcb2f5fddbb15ddde7118bae01a4c4ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 643ebb22ab006444e8a87cabd3feae46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbb0dc73177ef1d45a5878a2f9211e80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e87fb44f67fae44fb96b6fc913e1378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f13ce576006f83a4baa7cb39fe132123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4400637949c9382409b87ef78196e9aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 153d00ace01b481408a026374293aa1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/Milestone05/MilestoneFiveController.prefab
+Dependencies: []

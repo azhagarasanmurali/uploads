@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1685500267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27ce282a806b162672acdedc3273addf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab006_Inspecting Outer Diameters II_Web/Audio/Introduction/intro2_c.mp3
+Dependencies: []

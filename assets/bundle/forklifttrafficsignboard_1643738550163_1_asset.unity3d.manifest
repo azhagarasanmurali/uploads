@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2346105836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a521b545332e285b64c3c811f9ff6f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda346a322cf0d79dd0b07e425053e30
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/New folder/ForkliftTrafficSignBoard/ForkliftTrafficSignBoard.prefab
+Dependencies: []

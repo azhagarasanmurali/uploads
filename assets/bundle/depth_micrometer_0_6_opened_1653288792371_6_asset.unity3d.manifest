@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2118791236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffb7c8548df911b5c4d986eb5e12b231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cef6a8303d42de60461da91926f60cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85eb8009ec0529d4fa9f4a00a2e99514, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab005_Measuring Outer Diameters/Mechanical Depth Micrometer.prefab
+Dependencies: []

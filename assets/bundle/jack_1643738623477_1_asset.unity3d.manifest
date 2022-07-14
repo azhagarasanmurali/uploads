@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3477121454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d60f67e8a65699d3e04cebe92cf395a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0591af66b76022bfde6a9e288a773115
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 673f430d9a20e0e428f87927fd4d8bed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ToolingU/Zone_C_EnvironmentDefaultPrefabs/Jack.prefab
+Dependencies: []

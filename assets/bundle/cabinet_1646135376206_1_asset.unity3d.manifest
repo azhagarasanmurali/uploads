@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3457878419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3ec5c61f4d00cb00f2a5b37e656039d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7fc5c43fd7b6fc3b733eed43d6127a0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26a78b2b624b87c4aac6eafad2ba7f02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Appshell_Prefabs/Cleaning Supply Cabinet.prefab
+Dependencies: []

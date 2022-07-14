@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2699249556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 575d8811bf5a0c7b309223ef78ca8ce4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Demo/Audio/ShopFloor/Milestone07/milestone7.mp3
+Dependencies: []

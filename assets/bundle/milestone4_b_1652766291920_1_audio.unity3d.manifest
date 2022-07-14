@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 354044811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a256a264c893a5eb11e9b9473660fbd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab006_Inspecting Outer Diameters II_Web/Audio/MilestoneFour/milestone4_b.mp3
+Dependencies: []

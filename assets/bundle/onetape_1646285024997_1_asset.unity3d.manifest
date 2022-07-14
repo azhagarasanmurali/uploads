@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1349361948
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbf244fcee39405c20fa1f36f6852cb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99028d94adfd6de7b2bfeff5980a96ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98b19fcb1c130094d8acb1bbf8655d68, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone02/Interactables/onetape.prefab
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2763432784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9002e926496e95fa393d63b14085c25f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b70a33ce3062ef1014e31b895ab3bc55
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75fac40dde2227b478b9d17155ee6603, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/LockOutTagOutMilestones/Practice Mode Gate Valve Variant.prefab
+Dependencies: []

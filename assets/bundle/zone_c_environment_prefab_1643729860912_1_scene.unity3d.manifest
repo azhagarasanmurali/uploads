@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 713099002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 584075d4494a159ecd3da5e410e87480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1238c7cb0a7c119a9b28a3c8aa98f563
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18d9fa13b94ff0c4183aebd916878f65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84481e08f68ba1d49b04fcba6163e41d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Zone_C_EnvironmentDefaultModels_AssetBundle.prefab
+Dependencies: []

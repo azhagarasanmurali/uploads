@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2896177617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9796aea3d9b50f949711d68bc4ed87d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1b755a4d2113eee53071b1e951cd909
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f4bb39946979944808ee08d53588eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/DomeSafetyMirror.prefab
+Dependencies: []

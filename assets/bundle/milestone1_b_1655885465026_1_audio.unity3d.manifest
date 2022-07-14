@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2016841393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bee4ffb8ba7afea3ef44f7620328a4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab011_Inspection_InspectingThread Size_Web/Audio/MilestoneOne/milestone1_b.mp3
+Dependencies: []

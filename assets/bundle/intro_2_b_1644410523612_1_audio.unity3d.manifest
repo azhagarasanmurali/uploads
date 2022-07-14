@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1883754160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 763d968767693b2fff650bedd26953a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab_003_5SAndHandToolIdentification/Audio/Introduction/Intro
+  2_b.mp3
+Dependencies: []

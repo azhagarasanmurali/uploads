@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 929304931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a92298bf877827769bdd062666e466f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3fae5e603b4953a29434758d5946221
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e87fb44f67fae44fb96b6fc913e1378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85eb8009ec0529d4fa9f4a00a2e99514, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86356579e50c5fb4db8187f89bf4a449, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab005_Measuring Outer Diameters/Micrometer_Outside_Diameter_3_4_in_Inspect.prefab
+Dependencies:
+- D:/Sify/SVN/ToolingU/Vendor_Repo/Lab005_Measuring Outer Diameters_Web/_Bundles/AssetBundles/WebGL/smalltoolplacement.unity3d
+- D:/Sify/SVN/ToolingU/Vendor_Repo/Lab005_Measuring Outer Diameters_Web/_Bundles/AssetBundles/WebGL/snd-rollover.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1118898749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa85dae95301a51a197515b6c25c42f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab005_Measuring Outer Diameters/Audio/MilestoneThree/milestone3_a.mp3
+Dependencies: []

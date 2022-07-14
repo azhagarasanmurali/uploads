@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4248050879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88d979891f70121a6ef622b90038be7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35defa9a95bee31148c295d58eaf0a99
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ca5954d025af394e8723159652313a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72baedfd918e1a34e9a1ccac9a4a2cb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b16c59fbcc725a45840042e36d20902, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73b32bcfc82750343bfffbb0108d7ffa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_003_5SAndHandToolIdentification_Prefab/Dev/Milestone03/Interactables/ShowDustpan.prefab
+Dependencies: []

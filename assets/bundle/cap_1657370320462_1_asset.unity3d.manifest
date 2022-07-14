@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1849693076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f478e5e04e2384e790f79739816982b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/HighbrowPrefab/Common/InspectionView_Tool/Mechanical Depth Micrometer/Depth_Meter/Cap.prefab
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3949673324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68569d045d42f4b90305653295faf3c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab012_Inspection_Inspecting Inside Diameter/Audio/MilestoneFour/milestone4_o.mp3
+Dependencies: []

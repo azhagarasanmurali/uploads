@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1427466521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e79a1384332375926f67aee85dcd7632
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab_003_5SAndHandToolIdentification/Audio/CleaningToolSounds/LargeToolPlacement.mp3
+Dependencies: []

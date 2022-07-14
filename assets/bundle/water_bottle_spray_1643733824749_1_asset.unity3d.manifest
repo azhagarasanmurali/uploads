@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 801652528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41780026ab2477881c3270a20f5af3f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f57c0c74a3d10c29af4498669c926aec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a41ffe3be3bac546b8158592a9e82ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86356579e50c5fb4db8187f89bf4a449, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 673f430d9a20e0e428f87927fd4d8bed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 035461de71d41fc4d81ada1f91823416, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab_001_FireSafetyMilestone_03/FireSafety_Milestone_03/4_Water
+  Bottle Spray.prefab
+Dependencies: []

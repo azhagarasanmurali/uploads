@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1710965407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c33eb3bc7a4dc3397bb2b7065d483aa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab016_InspectingDepth_Web/Audio/MilestoneThree/milestone3_c.mp3
+Dependencies: []

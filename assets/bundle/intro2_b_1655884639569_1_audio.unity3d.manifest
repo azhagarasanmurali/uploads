@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1505751329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71b67b367fd56b959c445e05a474a843
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab011_Inspection_InspectingThread Size_Web/Audio/Introduction/intro2_b.mp3
+Dependencies: []

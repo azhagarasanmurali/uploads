@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 909601576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a66bb47be62f1cdff69619ae5afa857
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab002_SafetyAndIdentifyHazards/Audio/Introduction/intro2_b.mp3
+Dependencies: []

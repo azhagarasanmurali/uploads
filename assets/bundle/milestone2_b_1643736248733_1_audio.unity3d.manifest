@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4195875756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19b39502d4b3dd5791353325c549141b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Labs/Lab_001_FireAndSafety/Audio/FireSafety_Milestone_02/milestone2_b.mp3
+Dependencies: []

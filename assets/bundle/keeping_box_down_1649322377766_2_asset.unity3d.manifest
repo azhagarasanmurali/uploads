@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1470601169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9afc8e1ec2c3a71007c177e59d468e7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e274a4141c66bb8ab27e274fcf5ebed3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75fac40dde2227b478b9d17155ee6603, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/MilestoneFour/Keeping_Box_Down Variant.prefab
+Dependencies: []

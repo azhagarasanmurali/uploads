@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4196602756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c120c72534933ceddb59f2f2935f600
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9222a2af7d3cc08647b9a73878b9406d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6b3ae538cfe2c84c8c46240d3bb92b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 673f430d9a20e0e428f87927fd4d8bed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df83b79f2a24a524b9c27fdbd5fbcc01, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ToolingU/Main/3D/SupervisorModel/Nia.prefab
+Dependencies: []

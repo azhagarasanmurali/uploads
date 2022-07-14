@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2543912353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9416c6ad47836815e2559ead845c5be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3f7d09a35adf1f0047582e579e30398
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87398b637a3f3354dbbfa63281ab2bc0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Appshell_Prefabs/Wide_Anit_Fatugie_Mat.prefab
+- Assets/Prefabs/ToolingU/Zone_D_EnvironmentDefaultPrefabs/Wide Anit Fatugie mat.prefab
+Dependencies: []

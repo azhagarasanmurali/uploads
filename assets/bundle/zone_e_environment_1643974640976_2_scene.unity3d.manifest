@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1204906421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c0c6b374aacfbf8f712e8024ed6a7fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 382ab1becf2718c0e2a0b5cb1a64a7f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160c1812df6c6f94c82f74826e2b88ad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Zone_E_Environment.prefab
+Dependencies: []

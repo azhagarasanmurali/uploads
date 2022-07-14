@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3324018491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c51833959c426de0c76afdc052ea92f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60afcfa841f1671490c5a39e1e8e6eac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87398b637a3f3354dbbfa63281ab2bc0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Labs/Lab002_SafetyAndIdentifyHazards 1/TrafficCone.prefab
+Dependencies: []
